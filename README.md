@@ -21,30 +21,10 @@ The Brute Force Attack Detector and Blocker is a Windows application designed to
 
 ### Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/your-repo/releases) page.
+1. Download the latest release from the [here](https://github.com/ali-rzb/Brute-Force-Blocker/releases/download/main/Brute-Force-Blocker.rar).
 2. Extract the contents of the ZIP file.
 3. Run the executable file with administrative privileges.
 
-### Usage
-
-1. Launch the application with administrative privileges.
-2. Navigate to the "Brute Force Attacks" or similar section to view detected IP addresses.
-3. To block an IP address, select it from the list and choose the "Block" option.
-4. Regularly check the application for updates and security log insights.
-
 ## Screenshots
 
-Include screenshots or GIFs to illustrate the application's interface and functionality.
-
-## Contributing
-
-If you find any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/yourusername/your-repo/issues) or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-## Acknowledgments
-
-- Special thanks to [mention any third-party libraries or tools used in your application].
-
+![Screenshot 2023-11-15 020519](https://github.com/ali-rzb/Brute-Force-Blocker/assets/63366614/0473237b-062e-46c4-8289-aba8e9c1cfd4)
